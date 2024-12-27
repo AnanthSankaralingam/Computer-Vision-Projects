@@ -22,12 +22,12 @@ A 3D reconstruction project that takes two images from different viewpoints and 
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/1bc54197-f3b4-4662-8764-7b192bc46eda" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/4a89e91d-5bec-419d-904e-e75301f9154a" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1bc54197-f3b4-4662-8764-7b192bc46eda" width="350"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4a89e91d-5bec-419d-904e-e75301f9154a" width="350"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/e55dd977-a041-4db2-8460-0b5bc3b9677e" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/4710ce67-1a32-4788-99a8-15533295dc9d" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e55dd977-a041-4db2-8460-0b5bc3b9677e" width="350"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4710ce67-1a32-4788-99a8-15533295dc9d" width="350"/></td>
   </tr>
 </table>
 
